@@ -33,8 +33,8 @@ What's not included?
 This guide is focused on improving the delivery, not on a specific planning technique, or ways to prioritise a backlog or promoting new featuring or new product development.  
 
 Supplemental material for Delivery manager and Scrun Masters
-*	TNA Product Lifecycle [ link to it] ;
-*	guides on [how to estimate](/how%20to%20estimate.md)
+*	TNA Product Lifecycle [ link to it]
+*	guides on [how to estimate](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/howtoestimate.md)
 *	guides on how to prioritise [link to it]
 *	guides on how to write users stories [link to it]
 *	overview of BDD [link to it]
