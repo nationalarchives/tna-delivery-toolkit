@@ -7,7 +7,7 @@ How to estimate
 Estimation is valuable when it helps you make a significant decision; it is a forecast of what it will cost to deliver a specific outcome or, what outcome can be delivered for given cost.
 TIP Define the release scope not in terms of stories but in terms of features we're delivering and their business objectives.  
 
-Definition of Estimate [https://www.google.co.uk/search?q=def%3B+estimate&rlz=1C1GCEA_enGB796GB796&oq=def%3B+estimate&aqs=chrome..69i57j0l5.3014j1j8&sourceid=chrome&ie=UTF-8]
+[Definition of Estimate] (https://www.google.co.uk/search?q=def%3B+estimate&rlz=1C1GCEA_enGB796GB796&oq=def%3B+estimate&aqs=chrome..69i57j0l5.3014j1j8&sourceid=chrome&ie=UTF-8)
 
 Points based systems []
 
