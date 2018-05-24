@@ -1,5 +1,5 @@
 # tna-delivery-toolkit
- Documentation and tools to help in product or project delivery  
+ Documentation and tools to help in delivery new initiatives (suitable for product, service or project delivery)  
 
 ## Introduction  
 This repository provides several resources to help the Delivery Teams at The National Archives to:  
