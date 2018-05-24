@@ -1,6 +1,8 @@
  
+How to estimate
+=======
 
-How do you estimate when you don’t have a list of requirements that is complete or signed-off by the customer?  
+##How do you estimate when you don’t have a list of requirements that is complete or signed-off by the customer?  
 
 Estimation is valuable when it helps you make a significant decision; it is a forecast of what it will cost to deliver a specific outcome or, what outcome can be delivered for given cost.
 TIP Define the release scope not in terms of stories but in terms of features we're delivering and their business objectives.  
