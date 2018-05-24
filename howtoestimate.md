@@ -31,7 +31,7 @@ A commitment is a factual prediction of the future.  “This will take two weeks
 Unfortunately, we’re rarely asked to make a commitment about a single task – but rather a large collection of tasks – 
 well-defined, ill-defined, and undefined.
 
-So we reduce the timeline and reduce the Cone of Uncertainty []
+So we reduce the timeline and reduce the [Cone of Uncertainty](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/ConeofUncertainty.gif)
  
 
 We can demonstrate that scrum mitigates risk, e.g. regarding the prediction of when new features could be made available, thus contributing to other departments’ successes in planning and execution. 
@@ -93,6 +93,8 @@ manageable. Put in the BIG buckets and create small stories.
 Setting aside the most critical and urgent tasks (such as the web site being offline),
 the 15–10–5 approach is generally a good rule of thumb: dedicate 15% of a team’s
 capacity to technical debt, 10% to bugs, and 5% to explorative spikes. You may,
-of course, deviate from this when it comes to an individual sprint. But, generally,
+of course, deviate from this when it comes to an individual sprint.
+
+But, generally,
 maintaining these allocations will satisfy the maintenance requirements of most
 software applications.
