@@ -27,4 +27,16 @@ The primary components of this toolkit are:
 *	High level delivery plan
 *	Story Board
 *	Testing Plan 
-*	GO LIVE list
+*	GO LIVE list 
+
+What's not included?  
+This guide is focused on improving the delivery, not on a specific planning technique, or ways to prioritise a backlog or promoting new featuring or new product development.  
+
+Supplemental material for Delivery manager and Scrun Masters
+*	TNA Product Lifecycle [ link to it] ;
+*	guides on how to estimate [link to it]
+*	guides on how to prioritise [link to it]
+*	guides on how to write users stories [link to it]
+*	overview of BDD [link to it]
+*	Information for developers are available [https://github.com/nationalarchives/development-guide].
+
