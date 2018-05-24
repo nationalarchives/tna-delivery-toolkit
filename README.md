@@ -37,6 +37,6 @@ Supplemental material for Delivery manager and Scrun Masters
 *	guides on [how to estimate](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/howtoestimate.md)
 *	guides on how to prioritise [link to it]
 *	guides on how to write users stories [link to it]
-*	overview of BDD [link to it]
+*	[overview of BDD] (https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/DocumentsBDD.pptx)
 *	Information for developers are available [https://github.com/nationalarchives/development-guide].
 
