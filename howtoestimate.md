@@ -9,7 +9,7 @@ TIP Define the release scope not in terms of stories but in terms of features we
 
 [Definition of Estimate](https://www.google.co.uk/search?q=def%3B+estimate&rlz=1C1GCEA_enGB796GB796&oq=def%3B+estimate&aqs=chrome..69i57j0l5.3014j1j8&sourceid=chrome&ie=UTF-8)
 
-Points based systems []
+[Points or T-shirt based systems](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/Estimatebypointsorsize.gif)
 
 Points represent 3 types of scope: 
 1. Feature/function 
