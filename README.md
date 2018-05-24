@@ -1,7 +1,7 @@
 # tna-delivery-toolkit
-Documentation and tools to help in product or project delivery  
+ Documentation and tools to help in product or project delivery  
 
-Introduction  
+## Introduction  
 This repository provides several resources to help the Delivery Teams at The National Archives to:  
 
 1.	streamline delivery process and resolve blockers
