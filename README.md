@@ -40,6 +40,6 @@ not on a specific planning technique, or ways to prioritise a backlog or promoti
 *	guides on how to write users stories [link to it]
 *	[overview of BDD](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/DocumentsBDD.pptx)- downloadable document
 
-##Other Resources
-[Information for developers are available] (https://github.com/nationalarchives/development-guide)
+## Other Resources
+[Information for developers are available](https://github.com/nationalarchives/development-guide)
 
