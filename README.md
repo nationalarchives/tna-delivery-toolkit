@@ -11,8 +11,9 @@ This repository provides several resources to help the Delivery Teams at The Nat
 
 It is a living, open tool to which all can contribute and is regularly reviewed and refined to ensure it reflects emerging industry best practice. We welcome any and all feedback to be submitted either as a pull request or issue.  
 
-What's included?  
-The primary components of this toolkit are:
+## What's included?  
+The primary components of this toolkit are:  
+
 1.	a high-level description of the delivery process 
 *	Brief
 *	Discover/ Explore/Research
