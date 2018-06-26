@@ -14,20 +14,14 @@ It is a living, open tool to which all can contribute and is regularly reviewed 
 ## What's included?  
 The primary components of this toolkit are:  
 
-1.	a high-level description of the delivery process 
-*	Brief
-*	Discover/ Explore/Research
-*	Deliver / Development/ Test
-*	Validate/ Released and Benefits Review
-
-2.	a detailed list of documentations and definitions of done for Delivery Managers and Scrum Masters  
-*	Brief - Read me
+# A detailed list of documentations and definitions of done for Delivery Managers and Scrum Masters  
+*	[New Initiative Delivery Form] ()- Read me
 *	Team Rules Delivery Agreement
 *	Definitions of Done
 *	Evaluation and Estimation
 *	High level delivery plan
 *	Story Board
-*	Testing Plan 
+*	Testing Plan; [overview of BDD](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/DocumentsBDD.pptx)- downloadable document 
 *	GO LIVE list 
 
 ## What's not included?  
@@ -39,7 +33,6 @@ not on a specific planning technique, or ways to prioritise a backlog or promoti
 *	guides on [how to estimate](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/howtoestimate.md)
 *	guides on how to prioritise [link to it]
 *	guides on how to write users stories [link to it]
-*	[overview of BDD](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/DocumentsBDD.pptx)- downloadable document
 
 ## Other Resources
 [Information for developers are available in a separate repo](https://github.com/nationalarchives/development-guide)
