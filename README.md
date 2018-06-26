@@ -34,7 +34,7 @@ not on a specific planning technique, or ways to prioritise a backlog or promoti
 *	guides on [how to estimate](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/howtoestimate.md)
 *	guides on how to prioritise [link to it]
 *	guides on how to write users stories [link to it]
-* [visual aid]()- downloadable document
+* [visual aid](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/Delivery%20%20Toolkit%20-%20Visual%20Aid.docx)- downloadable document
 
 ## Other Resources
 [Information for developers are available in a separate repo](https://github.com/nationalarchives/development-guide)
