@@ -20,8 +20,7 @@ The primary components of this toolkit are:
 *	[Prioritization](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/Delivery%20toolkit%20-%20Prioritization.docx)
 *	[How to estimate](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/howtoestimate.md)
 * [Write and slit User Stories](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/Delivery%20Toolkit%20User%20stories.docx)
-*		Testing Plan; [overview of BDD](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/DocumentsBDD.pptx)- downloadable document 
-*	GO LIVE list 
+*	[Overview of BDD](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/DocumentsBDD.pptx)- downloadable document 
 
 ## What's not included?  
 This guide is focused on improving the delivery, 
