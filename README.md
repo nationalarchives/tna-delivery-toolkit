@@ -16,6 +16,7 @@ The primary components of this toolkit are:
 
 # A detailed list of documentations and definitions of done for Delivery Managers and Scrum Masters  
 *	[New Initiative Delivery Form](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/New%20Initiative%20Delivery%20Form.docx)- downloadable document
+* [Sprint 0 - product envisioning explore phase_USER FIRST](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/Sprint%200%20-%20product%20envisioning%20explore%20phase_USER%20FIRST.docx)
 *	Team Rules Delivery Agreement
 *	Definitions of Done
 *	Evaluation and Estimation
@@ -33,6 +34,7 @@ not on a specific planning technique, or ways to prioritise a backlog or promoti
 *	guides on [how to estimate](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/howtoestimate.md)
 *	guides on how to prioritise [link to it]
 *	guides on how to write users stories [link to it]
+* [visual aid]()- downloadable document
 
 ## Other Resources
 [Information for developers are available in a separate repo](https://github.com/nationalarchives/development-guide)
