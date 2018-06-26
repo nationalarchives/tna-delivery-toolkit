@@ -35,6 +35,7 @@ not on a specific planning technique, or ways to prioritise a backlog or promoti
 *	guides on how to prioritise [link to it]
 *	guides on how to write users stories [link to it]
 * [visual aid](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/Delivery%20%20Toolkit%20-%20Visual%20Aid.docx)- downloadable document
+* [Digital content design](https://github.com/nationalarchives/tna-delivery-toolkit/blob/master/content-design-guidance.md)
 
 ## Other Resources
 [Information for developers are available in a separate repo](https://github.com/nationalarchives/development-guide)
