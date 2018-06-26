@@ -1,4 +1,4 @@
-*Digital content design
+## Digital content design
 
 This guide is designed to share understanding about what needs to happen before, during, and after a project to ensure the construction and maintenance of great content.
 
@@ -20,6 +20,7 @@ Make sure the thing being discussed is an idea or a problem.
 •	Does this service/idea affect or alter any of our other products, or will it be resolved by a bigger project in the future? 
 
 Who is in the project team? Which business owner, content owner, delivery manager, developers and user researchers will you be working with?
+
 2. Explore
 
 Once a brief has been delivered, the whole team will ideally be doing an Explore phase. At this stage, editors will be exploring the following:
@@ -78,26 +79,25 @@ o	Establish a working method with the designer/developer - what format do they w
 
 -------User testing happens----------------------------------------------------
 
-5. Validate the prototype
+5. Validate the prototype  
 The prototype will now enter user testing to be validated. This can be a quieter stage of the project for editors, but you can still get involved by sitting in on user testing sessions so you can directly see how the prototype is being received, taking notes that the user researchers can cross-reference with their own and proofreading any surveys they will be sending out.
 
 •	Translate user feedback to editorial changes. Work with the user researcher to understand what pieces of user feedback are significant enough to act on editorially. Can these changes be made while still achieving the MVP? If they can’t is it worth putting them into a backlog and coming back to them in another iteration? 
 •	If there are changes to be made, proceed to Step 4 (Prototype content) again.
 •	If there are no changes to be made, proceed to Step 6.
 
-6. Contribute to functional development
+6. Contribute to functional development  
 Establish with the developer how the prototype will be developed into a functional product. If something is being developed in Wordpress, you will need to contribute to the template design in Wordpress to ensure usability from an editorial and authorial point of view. 
 
 •	Confirm content in functional design. Ensure that the content from the prototype has been taken across accurately into the functional product. If it hasn’t, establish a workflow for feeding in corrections.
 •	Contribute to template design
 It’s not only the public that are users - staff inside the building who own and maintain the content (including us editors!) are users too, so we need to make the backend (WordPress) interfaces as intuitive and user friendly as possible. Having input into how a form confirmation email, for example, is built into the Wordpress template is important. Establish with a developer at what point they will be thinking about how to build the template, and how you can help contribute. Also think of who else in the organisation will be using this template, eg CEE Editorial/content owners in other teams, and how you can get them in front of this template to test how usable it is.
 If something isn’t being developed in Wordpress or a system that you work in regularly, establish a means of working with the backend/front end developer to ensure editorial changes are integrated appropriately.
-
 •	Testing. 
 o	Local testing with the developer. Once the functional design has been built, sit with the developer to test how it works in the local DEV environment.
 o	TEST testing - once confirmed, the design will then be put into a TEST environment that should mimic the LIVE environment as closely as possible, so you can test the feature on your own machine. This involves trying to ‘break’ the back-end to identify any bugs or errors in code, as the local DEV environment can be quite different to TEST. Establish a workflow to feed back errors to the developer. This might involve the developer creating a list of testing questions for you.
 
-7. Obtain sign-off
+7. Obtain sign-off   
 Now that the product is in a state where it could be ready for the LIVE environment, it needs to be signed-off by business owners, product owners and the project team.
 8. PREPARING FOR BETA/LIVE
 The product must remain in TEST until the following points have been completed:
